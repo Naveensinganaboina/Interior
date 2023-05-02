@@ -1,0 +1,40 @@
+#hover-icons:hover{
+    color: red;
+}
+#types a:hover{
+    color: red;
+}
+#home-img{
+    background-image: url("../public/images/home10.jpg");
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+#social{
+    text-decoration: none;
+    color: #577D86;
+}
+@media screen and (min-width: 375px){
+    #we-offer{
+        align-items: center;
+        text-align: center;
+        padding: 10px;
+    }
+    #nav-head{
+        padding-left: 70px;
+        /* color: blue; */
+    }
+}
+@media screen and (min-width: 480px){
+
+}
+@media screen and (min-width: 800px){
+
+}
+@media screen and (min-width: 1000px){
+
+}
+@media screen and (min-width: 1200px){
+
+}
