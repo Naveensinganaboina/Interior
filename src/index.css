@@ -3,59 +3,22 @@
     height: 100%;
     background-color: white;
   } */
-  
-  /* .container {
-    overflow: hidden;
-  }
-  .slider {
-    animation: slidein 9s linear infinite;
-    white-space: nowrap;
-  }
-  .logos {
-    width: 100%;
-    display: inline-block;
-    margin: 0px 0;
-  }
-  .fab {
-    width: calc(100% / 5);
-    animation: fade-in 0.5s 
-      cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
-  }
 
 
-  @keyframes slidein {
-    from {
-      transform: translate3d(0, 0, 0);
-    }
-    to {
-      transform: translate3d(-100%, 0, 0);
-    }
-  }
-  
-  @keyframes fade-in {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  } */
-  
-
-
-
-
-
-
-
-#hover-icons:hover{
+/* #data-it:hover{
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 2px;
     color: red;
+} */
+
+#pic-hooo:hover{
+    margin-top: 2px;
+    padding-right: 5px;
 }
-#types a:hover{
-    color: red;
-}
+
 #home-img{
-    background-image: url("../public/images/home10.jpg");
+    background-image: url("../public/images/hd-home-quality.jpg");
     height: 700px;
     width: 100%;
     background-size: cover;
